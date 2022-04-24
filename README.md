@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Nika Mdivani 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning with Harvards web development course
-- 📫 How to reach me You can contact me at [nikamdivani@icloud.com](mailto:nikamdivani@icloud.com) 
-- 🌍  I'm based in Tbilisi, Georgia 
+- 📫 You can contact me at [nikamdivani@icloud.com](mailto:nikamdivani@icloud.com) 
+- 🌍 I'm based in Tbilisi, Georgia 
 
 
 
-I've always liked math and problem solving, so I tried to get into Tbilisi Public School №199 of Physics and Mathematics, one of the best math schools in Tbilisi and I got accepted, and ended that same school 1 year ago. I started coding 4 months ago with CS50x course, and now I am continuing to learn more in web development.  
+I've always liked math and problem solving, so I tried to get into Tbilisi Public School №199 of Physics and Mathematics, one of the best math schools in Tbilisi and got accepted, I ended that same school 1 year ago. I started coding 4 months ago with CS50x course, and now I am continuing to learn more in web development.  
 
 ### Skills
 
