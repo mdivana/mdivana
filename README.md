@@ -6,7 +6,7 @@
 
 
 
-I've always liked math and problem solving, so I tried to get into Tbilisi Public School №199 of Physics and Mathematics, one of the best math schools in Tbilisi and got accepted, I ended that same school. I started coding in January 2022 with CS50x course, and now I am continuing to learn more in web development.  
+I've always liked math and problem solving, so I tried to get into Tbilisi Public School №199 of Physics and Mathematics, one of the best math schools in Tbilisi and got accepted, I ended that same school. I started coding in January 2022 with CS50x course, and now I am continuing to learn more in web development especially in django with books from William S. Vincent.  
 
 ### Skills
 
