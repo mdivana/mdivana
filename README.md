@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nika Mdivani 
 - 👀 I’m interested in web development 
-- 🌱 I’m currently pursuing a degree in Computer Science and I am learning with Harvards web development course
+- 🌱 I’m currently pursuing a degree in Computer Science and I am learning web development with Django
 - 📫 You can contact me at [nikamdivani@icloud.com](mailto:nikamdivani@icloud.com) 
 - 🌍 I'm based in Tbilisi, Georgia 
 
